@@ -52,8 +52,6 @@ echo 'U3VwZXJDcmF6eVBhc3N3b3JkMTIzIQ==' | base64 -d
 **Task 5**
 What is the name of the malicious pod?
 
-What is the name of the malicious pod?
-
 Tasks 5–7 are interconnected, as they all relate to identifying and analyzing malicious activity.
 
 To identify a malicious pod, look for:
