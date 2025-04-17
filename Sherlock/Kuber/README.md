@@ -73,6 +73,8 @@ A reverse shell is found pointing to 10.10.14.11:4444, clearly indicating malici
 **Task 6**
 What is the name of the malicious pod?
 
+![Screenshot](Kuber8.png)
+
 The pod executing the reverse shell is the one using the alpine image with suspicious shell commands.
 
 **Task 7**
