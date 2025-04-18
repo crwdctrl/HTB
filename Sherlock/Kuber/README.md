@@ -1,5 +1,5 @@
 # Kuber
-### Malware Analysis (Easy)
+### DFIR (Easy)
 
 First download the `Kuber.zip` file and extract its contents. Focus your attention on the YAML configuration files within the `kube-system` namespace.
 
